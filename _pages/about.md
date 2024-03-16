@@ -13,9 +13,31 @@ My research mainly focuses on IoT Attacks and Defenses. My reserch interests inc
 
 Publications
 ======
-**No More Companion Apps Hacking but One Dongle:** *Hub-Based Blackbox Fuzzing of IoT Firmware*  
+* **No More Companion Apps Hacking but One Dongle:** *Hub-Based Blackbox Fuzzing of IoT Firmware*  
 Xiaoyue Ma, Qiang Zeng, Haotian Chi, Lannan Luo  
 *MobiSys'23*, Helsinki, Finland, June. 2023    
 \>\>[PDF](../assets/IoT-Fuzzing.pdf)  
 This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have been assigned to them: <span style="color: red;">CVE-2023-24678, CVE-2022-47100, CVE-2023-29780, CVE-2023-29779, CVE-2023-34596, CVE-2023-34597</span>.  
 <span style="color: blue;">Artifact Review and Badging:</span> Artifacts Evaluated – Functional v1.1 and Artifacts Evaluated – Reusable v1.1
+
+Awards/Honors
+======
+*  Summer Research award, George Mason University, 2023.
+* Engineering Scholarship, University of South Carolina, 2022.
+* Higher Education Emergency Relief Fund Grant, University of South Carolina, 2021.
+* Engineering Exchange Scholarship, The University of Melbourne, 2019.
+* Excellent Student, Northeastern University, 2016-2017.
+
+Academic Service
+======
+### Reviewer of Refereed Conferences
+* **PIMRC'23F**: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications
+* **INFOCOM'23 Workshop**: IEEE International Conference on Computer Communications Workshop
+
+### Reviewer of Refereed Journals
+* Journal of Computer Security
+* Springer Peer-to-Peer Networking and Applications
+
+Teaching Experience
+======
+* Spring 2023, *CS468, Secure Programming and Systems*, Teaching Assistant.
