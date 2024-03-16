@@ -45,3 +45,5 @@ Teaching Experience
 ---
 
 <p align="right">Last Updated: 03/15/2024</p>
+
+<a href="https://clustrmaps.com/site/1byvp" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=xcKQhEFq8uMeQhZN6GUZ1QMspmQxmL0D8FL0KD_0P7s&cl=ffffff"></a>
