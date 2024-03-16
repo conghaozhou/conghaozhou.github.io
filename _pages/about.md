@@ -42,7 +42,4 @@ Teaching Experience
 ======
 * Spring 2023, *CS468, Secure Programming and Systems*, Teaching Assistant.
 
----
-
-<p align="right">Last Updated: 03/15/2024</p>
 
