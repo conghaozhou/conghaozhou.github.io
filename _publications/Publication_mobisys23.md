@@ -1,7 +1,7 @@
 ---
 title: "No More Companion Apps Hacking but One Dongle: Hub-Based Blackbox Fuzzing of IoT Firmware"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Publication_mobisys23
 excerpt: 'This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have been assigned to them: CVE-2023-24678, CVE-2022-47100, CVE-2023-29780, CVE-2023-29779, CVE-2023-34596, CVE-2023-34597'
 date: 2023-02-27
 venue: 'In Proceedings of the 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys)'
