@@ -15,4 +15,14 @@ is unscalable when analyzing many devices. Moreover, fuzzing through a companion
 
 **[Teaser Video](https://www.youtube.com/watch?v=p9ALpVsMt28&list=PL6jLuiS6wP5bTR9rjQRDFxAVrRP0It6mn&t=1s)**
 
+**[BibTex]**
+```
+@inproceedings{ma2023hubbased,
+  author = {Ma, Xiaoyue and Zeng, Qiang and Chi, Haotian and Luo, Lannan},
+  title = {No More Companion Apps Hacking but One Dongle: Hub-Based Blackbox Fuzzing of IoT Firmware},
+  booktitle = {Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services (MobiSys)},
+  year = {2023}
+}
+```
+
 
