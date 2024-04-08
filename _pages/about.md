@@ -6,14 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year Ph.D. Student at the Department of Computer Science, [George Mason University (GMU)](https://www.gmu.edu/), under the supervision of [Prof. Lannan Luo](https://lannan.github.io/index.html). Prior to joining George Mason, I earned a B.S. degree in Computer Science in 2017 from Northeastern University in Shenyang, China, and obtained an M.S. from the University of Melbourne, Australia, in 2020.
+I am a third-year Ph.D. Student at the Department of Computer Science, [George Mason University (GMU)](https://www.gmu.edu/), under the supervision of [Prof. Lannan Luo](https://lannan.github.io/index.html). Prior to joining George Mason, I earned a B.E. degree in Computer Science in 2017 from Northeastern University in Shenyang, China, and obtained an M.S. from the University of Melbourne, Australia, in 2020.
 
 My research mainly focuses on IoT Attacks and Defenses.
  <!-- My reserch interests include IoT vulnerability analysis, mobile computing and software engineering. -->
 
 News
 ======
-* (04/2024)**[Service]**I will serve as a member of the Local Organization Team for the Information Security Conference [(ISC)](https://isc24.cs.gmu.edu/docs/home/), which will be held in Virginia, USA. We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://isc24.cs.gmu.edu/docs/call-for-papers/) here!
+* (04/2024)**[Service]**I will serve as a member of the Local Organization Team for the Information Security Conference [(ISC)](https://isc24.cs.gmu.edu/docs/home/), which will be held in Virginia, USA on Oct ,2024. We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://isc24.cs.gmu.edu/docs/call-for-papers/) here!
 
 Publications
 ======
