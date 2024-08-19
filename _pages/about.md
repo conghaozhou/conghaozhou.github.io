@@ -21,11 +21,12 @@ News
 Publications
 ======
 * **From One Thousand Pages of Specification to Unveiling Hidden Bugs:** *Large Language Model Assisted Fuzzing of Matter IoT Devices*
-Xiaoyue Ma, Lannan Luo, Qiang Zeng.
+
+**Xiaoyue Ma**, Lannan Luo, Qiang Zeng.
 *Security'24*, Philadelphia, USA, Aug. 2024
 
 * **No More Companion Apps Hacking but One Dongle:** *Hub-Based Blackbox Fuzzing of IoT Firmware*  
-Xiaoyue Ma, Qiang Zeng, Haotian Chi, Lannan Luo  
+**Xiaoyue Ma**, Qiang Zeng, Haotian Chi, Lannan Luo  
 *MobiSys'23*, Helsinki, Finland, June. 2023    
 \>\>[PDF]
 
