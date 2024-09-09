@@ -10,7 +10,8 @@ I am a third-year Ph.D. Student at the Department of Computer Science, [George M
 
 My research mainly focuses on IoT Attacks and Defenses.
 
-I also maintain a deadline countdown website for conferences related to software analysis, security & privacy, and AI: [Cybersecurity-Lab-GMU DDL Countdowns](https://cybersecurity-lab-gmu.github.io/) Contributions through pull requests or merge requests are welcome!!
+I also maintain a deadline countdown website for conferences related to software analysis, security & privacy, and AI: [Cybersecurity-Lab-GMU DDL Countdowns](https://cybersecurity-lab-gmu.github.io/).  
+Contributions through pull requests or merge requests are welcome!!
  <!-- My reserch interests include IoT vulnerability analysis, mobile computing and software engineering. -->
 
 News
@@ -23,7 +24,7 @@ News
 Publications
 ======
 * **From One Thousand Pages of Specification to Unveiling Hidden Bugs:** *Large Language Model Assisted Fuzzing of Matter IoT Devices*  
-**Xiaoyue Ma**, Lannan Luo, Qiang Zeng. 
+**Xiaoyue Ma**, Lannan Luo, Qiang Zeng.    
 *Security'24*, Philadelphia, USA, Aug. 2024
 
 * **No More Companion Apps Hacking but One Dongle:** *Hub-Based Blackbox Fuzzing of IoT Firmware*  
