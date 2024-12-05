@@ -1,27 +1,23 @@
 ---
 permalink: /
-title: "Xiaoyue Ma"
+title: "Conghao Zhou"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a 4th-year Ph.D. Student at the Department of Computer Science, [George Mason University (GMU)](https://www.gmu.edu/), under the supervision of [Prof. Lannan Luo](https://lannan.github.io/index.html) and [Prof. Qiang Zeng](https://cs.gmu.edu/~zeng/). Prior to joining George Mason, I earned the Bachelor degree in Computer Science in 2017 from Northeastern University in Shenyang, China, and obtained the Master degree from the University of Melbourne, Australia, in 2020.
+I am a Postdoc Fellow in the Department of Electrical and Computer Engineering, [University of Waterloo](https://uwaterloo.ca/). I joined the Broadband Communications Research (BBCR) Lab, University of Waterloo, and received the Ph.D. degree under the supervision of Professor [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen). Before joining UWaterloo, I received the M.Sc. degree from the University of Illinois Chicago, IL, USA, and the B.Eng degree from Northeastern University in Shenyang, China.
 
-My research mainly focuses on IoT Attacks and Defenses.
-
-I also maintain a deadline countdown website for conferences related to software analysis, security & privacy, and AI: [Cybersecurity-Lab-GMU DDL Countdowns](https://cybersecurity-lab-gmu.github.io/).  
-Contributions through pull requests or merge requests are welcome!!
- <!-- My reserch interests include IoT vulnerability analysis, mobile computing and software engineering. -->
+My research interests include space-air-ground integrated networks, network slicing, machine learning in wireless networks, and extended reality.
 
 News
 ======
-* (07/2024)**[Award]** I received the Student Travel Grant from Usenix Security!
-* (05/2024)**[Paper]** Our tool that discovered over 60 zero-day vulnerabilities is accepted to [USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24).
-* (04/2024)**[Service]** I will serve as a member of the Local Organization Team for the Information Security Conference [(ISC)](https://isc24.cs.gmu.edu), which will be held in Virginia, USA, in October 2024. We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://isc24.cs.gmu.edu/docs/call-for-papers/) here!
-* (02/2023)**[Paper]**Our IoT fuzzing work that found over twenty zero-day vulnerabilities (six CVEs assigned) will be presented at [MobiSys'23](https://www.sigmobile.org/mobisys/2023/).
+* (12/2024)**[Award]** We received the Best Paper Award, GLOBECOM'24!
+* (06/2024)**[Award]** We received the Best Innovative Concept Award, IEEE Toronto Section, 2024!
+* (03/2024)**[Paper]** Our paper has been accepted by IEEE Internet of Things Journal.
+* (04/2024)**[Service]** I will serve as a guest editor of MDPI Remote Sensing for the special issue on "Terrestrial‑Satellite Communication Networks". We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://www.mdpi.com/journal/remotesensing/special_issues/003O5W5HIT) here!
 
-Publications
+<!-- Publications
 ======
 * **From One Thousand Pages of Specification to Unveiling Hidden Bugs:** *Large Language Model Assisted Fuzzing of Matter IoT Devices*  
 **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.    
@@ -40,25 +36,31 @@ This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have be
 
 <!-- Awards/Honors
 ======
-* Student Travel Grant, Usenix Security,2024
-* Summer Research award, George Mason University, 2023.
-* Engineering Scholarship, University of South Carolina, 2022.
-* Higher Education Emergency Relief Fund Grant, University of South Carolina, 2021.
-* Engineering Exchange Scholarship, The University of Melbourne, 2019.
-* Excellent Student, Northeastern University, 2016-2017. -->
+* Best Paper Award, IEEE Globecom 2024.
+* Best Innovative Concept Award, IEEE Toronto Section, 2024
+* Best Paper Award, IEEE PIMRC 2023 
+* Jon W. Mark Graduate Scholarship in Communication, University of Waterloo, 2021
 
 <!-- Academic Service
 ======
-### Reviewer of Refereed Conferences
-* **PIMRC'23F**: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications
-* **INFOCOM'23 Workshop**: IEEE International Conference on Computer Communications Workshop
-
 ### Reviewer of Refereed Journals
-* Journal of Computer Security
-* Springer Peer-to-Peer Networking and Applications -->
+* IEEE Journal on Selected Areas in Communications (JSAC)
+* IEEE/ACM Transactions on Networking (TON)
+* IEEE Transactions on Wireless Communications (TWC)
+* IEEE Transactions on Mobile Computing (TMC)
+* IEEE Transactions on Cognitive Communications and Networking (TCCN)
+* IEEE Internet of Things Journal (IoTJ)
+* IEEE Transactions on Industrial Informatics (TII)
+* IEEE Transactions on Intelligent Transportation Systems (TITS) 
+
+### TPC of Refereed Conferences
+* **SenSys'24 Workshop**: ACM Conference on Embedded Networked Sensor Systems Workshop
+* **GLOBECOM**: IEEE Global Communications Conference
+* **ICCC**: IEEE/CIC International Conference on Communications in China
+* **INFOCOM'24 Workshop**: IEEE International Conference on Computer Communications Workshop -->
 
 Teaching Experience
 ======
-* Spring 2023, *CS468, Secure Programming and Systems*, Teaching Assistant.
+* Winter 2024, *ECE610, Broadband Communication Networks*, Guest Lecturer.
 
 
