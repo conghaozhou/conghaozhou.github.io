@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-2.jpg"
   name             : "Conghao Zhou"
   # pronouns         : # example: "she/her"  
   bio              : "Postdoc Fellow at University of Waterloo"
