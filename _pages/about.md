@@ -23,7 +23,6 @@ News
 **Xiaoyue Ma**, Lannan Luo, Qiang Zeng.    
 *Security'24*, Philadelphia, USA, Aug. 2024
 
-This work has discovered over 60 vulnerabilites and 3 CVEs have been assigned: <span style="color: red;">CVE-2023-42189,CVE-2023-45955,CVE-2023-45956</span>.
 
 * **No More Companion Apps Hacking but One Dongle:** *Hub-Based Blackbox Fuzzing of IoT Firmware*  
 **Xiaoyue Ma**, Qiang Zeng, Haotian Chi, Lannan Luo  
