@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaoyue Ma"
+title                    : "Conghao Zhou"
 title_separator          : "-"
-name                     : &name "Xiaoyue Ma"
-description              : &description "Ph.D student in Computer Science at Geogre Mason University"
-url                      : https://agatah2333.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Conghao Zhou"
+description              : &description "Postdoc Fellow at University of Waterloo"
+url                      : https://cjygxsn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,17 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xiaoyue Ma"
+  name             : "Conghao Zhou"
   # pronouns         : # example: "she/her"  
-  bio              : "Ph.D student in Computer Science"
+  bio              : "Postdoc Fellow at University of Waterloo"
   # location         : "Earth"
   # employer         : "Red Brick University"
   uri              : # URL
-  email            : "xma9 AT gmu DOT edu" 
+  email            : "c89zhou AT uwaterloo DOT ca" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=TyIsqPMAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.ca/citations?user=E_kOc8IAAAAJ&hl=en"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
