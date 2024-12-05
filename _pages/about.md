@@ -29,10 +29,6 @@ News
 *MobiSys'23*, Helsinki, Finland, June. 2023    
 \>\>[PDF]
 
-<!-- (../assets/IoT-Fuzzing.pdf)   -->
-This work has discovered over twenty zero-day vulnerabilities and 6 CVEs have been assigned: <span style="color: red;">CVE-2023-24678, CVE-2022-47100, CVE-2023-29780, CVE-2023-29779, CVE-2023-34596, CVE-2023-34597</span>.  
-<span style="color: blue;">Artifact Review and Badging:</span> Artifacts Evaluated – Functional v1.1 and Artifacts Evaluated – Reusable v1.1
-
 <!-- Awards/Honors
 ======
 * Best Paper Award, IEEE Globecom 2024.
