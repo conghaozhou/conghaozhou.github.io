@@ -12,7 +12,7 @@ title                    : "Conghao Zhou"
 title_separator          : "-"
 name                     : &name "Conghao Zhou"
 description              : &description "Postdoc Fellow at University of Waterloo"
-url                      : https://cjygxsn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://conghaozhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
