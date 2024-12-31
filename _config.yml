@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Conghao Zhou"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Conghao Zhou"
 description              : &description "Postdoc Fellow at University of Waterloo"
