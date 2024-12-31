@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Conghao Zhou"
 author_profile: true
 redirect_from: 
   - /about/
