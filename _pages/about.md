@@ -12,8 +12,9 @@ My research interests include space-air-ground integrated networks, network slic
 
 News
 ======
-* (12/2024)**[Award]** We received the Best Paper Award, GLOBECOM'24!
-* (09/2024)**[Service]** I will serve as a guest editor of MDPI Remote Sensing for the special issue on "Terrestrial‑Satellite Communication Networks". We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://www.mdpi.com/journal/remotesensing/special_issues/003O5W5HIT) here!
+* (01/2025)**[Service]** I will serve as a Track Co-chair of IEEE VTC-Fall'25, Chengdu, China, for Track 'Vehicle Cooperation and Control, Assisted and Autonomous Driving'. We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://events.vtsociety.org/vtc2025-fall/authors/call-for-papers-2/) here!
+* (12/2024)**[Award]** We received the Best Paper Award, GLOBECOM'24, Cpae Town, South Africa!
+* (09/2024)**[Service]** I will serve as a Guest Editor of MDPI Remote Sensing for the special issue on "Terrestrial‑Satellite Communication Networks". We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://www.mdpi.com/journal/remotesensing/special_issues/003O5W5HIT) here!
 * (08/2024)**[Paper]** Our paper has been accepted by IEEE IoTJ.
 * (06/2024)**[Award]** We received the Best Innovative Concept Award, IEEE Toronto Section, 2024!
 * ...
