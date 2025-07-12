@@ -13,7 +13,7 @@ My research interests include Integrated Computation and Communication, Immersiv
 Open Position
 ======
 I am seeking motivated Ph.D. / Master / undergraduate students to join our team and conduct research in the areas of Network Intelligence and Immersive Communications for 6G.
-If you are interested, feel free to reach out to me by email: zhouconghao AT xidian DOT edu DOT cn. 
+If you are interested, feel free to reach out to me by email: **zhouconghao AT xidian DOT edu DOT cn**. 
 
 News
 ======
