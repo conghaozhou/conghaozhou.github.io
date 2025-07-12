@@ -8,7 +8,12 @@ redirect_from:
 ---
 I am a Professor in the School of Telecommunications Engineering, Xidian University, China. Previously, I was a Postdoctoral Fellow in the Department of Electrical and Computer Engineering at the University of Waterloo, Ontario, Canada. I received my Ph.D. degree from the University of Waterloo as a member of the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), under the supervision of Professor [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen). Before that, I received my M.Sc. degree in Electrical and Computer Engineering from the University of Illinois Chicago, USA, and my B.Eng. degree from Northeastern University, China.
 
-My research interests include integrated computation and communication, immersive communications, and space-air-ground integrated networks.
+My research interests include Integrated Computation and Communication, Immersive Communications, and Space-Air-Ground Integrated Networks.
+
+Open Position
+======
+I am seeking motivated Ph.D. / Master / undergraduate students to join our team and conduct research in the areas of Network Intelligence and Immersive Communications for 6G.
+If you are interested, feel free to reach out to me by email: zhouconghao AT xidian DOT edu DOT cn. 
 
 News
 ======
