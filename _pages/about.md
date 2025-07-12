@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoc Fellow in the Department of Electrical and Computer Engineering, [University of Waterloo](https://uwaterloo.ca/), ON, Canada. I joined the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), University of Waterloo, and received the Ph.D. degree under the supervision of Professor [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen). Before joining UWaterloo, I received the M.Sc. degree from the University of Illinois Chicago, IL, USA, and the B.Eng degree from Northeastern University, China.
+I am a Professor in the School of Telecommunications Engineering, Xidian University, China. Previously, I was a Postdoctoral Fellow in the Department of Electrical and Computer Engineering at the University of Waterloo, Ontario, Canada. I received my Ph.D. degree from the University of Waterloo as a member of the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), under the supervision of Professor [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen). Before that, I received my M.Sc. degree in Electrical and Computer Engineering from the University of Illinois Chicago, USA, and my B.Eng. degree from Northeastern University, China.
 
-My research interests include space-air-ground integrated networks, network slicing, machine learning in wireless networks, and extended reality.
+My research interests include integrated computation and communication, immersive communications, and space-air-ground integrated networks.
 
 News
 ======
