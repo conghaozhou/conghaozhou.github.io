@@ -11,17 +11,18 @@ I am a Professor in the School of Telecommunications Engineering, Xidian Univers
 My research interests include Integrated Computation and Communication, Immersive Communications, and Space-Air-Ground Integrated Networks.
 
 周淙浩，西安电子科技大学 通信工程学院教授，于加拿大滑铁卢大学电子与计算机工程系获得博士学位，师从Xuemin (Sherman) Shen 教授。分别于美国伊利诺伊大学芝加哥分校和中国东北大学获得硕士学位和学士学位。
-主要研究方向是：6G沉浸通信、智能通算一体化技术以及空天地一体化网络。入选2025年“Stanford/Elsevier Top 2% Scientists Worldwide”。
+主要研究方向是：6G沉浸通信、智能通算一体化技术以及空天地一体化网络。入选2025年斯坦福大学全球前2%科学家。
 
 Open Position
 ======
-I am seeking motivated Ph.D. / Master / undergraduate students to join our team and conduct research in the areas of Network Intelligence and Immersive Communications for 6G.
+I am seeking motivated Ph.D. / Master / Undergraduate students to join our team and conduct research in the areas of Network Intelligence and Immersive Communications for 6G.
 If you are interested, feel free to reach out to me by email: **zhouconghao AT xidian DOT edu DOT cn**. 
 
 正在招收有志于从事科研的博士、硕士以及本科生加入我们的团队，在6G网络智能与沉浸式通信领域开展研究。如果您感兴趣，欢迎通过电子邮件与我联系：**zhouconghao AT xidian DOT edu DOT cn**
 
 News
 ======
+* (10/2025)**[Award]** We received the Best Paper Award, VTC-Fall'25, Chengdu, China!
 * (09/2025)**[Paper]** Our paper “User-Centric Communication Service Provision for Edge-Assisted Mobile Augmented Reality” has been accepted by IEEE Transactions on Mobile Computing.
 * (03/2025)**[Paper]** Our magazine paper “User-centric Immersive Communications in 6G: A Data-oriented Framework via Digital Twin” has been accepted by IEEE Wireless Communications.
 * (01/2025)**[Service]** I will serve as a Track Co-chair of IEEE VTC-Fall'25, Chengdu, China, for Track 'Vehicle Cooperation and Control, Assisted and Autonomous Driving'. We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://events.vtsociety.org/vtc2025-fall/authors/call-for-papers-2/) here!
