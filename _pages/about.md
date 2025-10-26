@@ -22,7 +22,8 @@ If you are interested, feel free to reach out to me by email: **zhouconghao AT x
 
 News
 ======
-* (10/2025)**[Award]** We received the Best Paper Award, VTC-Fall'25, Chengdu, China!
+* (10/2025)**[Award]** We received the Best Paper Award, IEEE WCSP'25, Chongqing, China!
+* (10/2025)**[Award]** We received the Best Student Paper Award, IEEE VTC-Fall'25, Chengdu, China!
 * (09/2025)**[Paper]** Our paper “User-Centric Communication Service Provision for Edge-Assisted Mobile Augmented Reality” has been accepted by IEEE Transactions on Mobile Computing.
 * (03/2025)**[Paper]** Our magazine paper “User-centric Immersive Communications in 6G: A Data-oriented Framework via Digital Twin” has been accepted by IEEE Wireless Communications.
 * (01/2025)**[Service]** I will serve as a Track Co-chair of IEEE VTC-Fall'25, Chengdu, China, for Track 'Vehicle Cooperation and Control, Assisted and Autonomous Driving'. We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://events.vtsociety.org/vtc2025-fall/authors/call-for-papers-2/) here!
