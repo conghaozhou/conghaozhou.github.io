@@ -20,6 +20,8 @@ If you are interested, feel free to reach out to me by email: **zhouconghao AT x
 
 长期欢迎校内外 本科生 / 研究生 申报课题组博士、硕士研究生，加入我们的团队，在6G网络智能与沉浸式通信领域开展研究。如果您感兴趣，欢迎通过电子邮件与我联系：**zhouconghao AT xidian DOT edu DOT cn**
 
+主页：[https://faculty.xidian.edu.cn/ZHOUCONGHAO/zh_CN/index.htm](https://faculty.xidian.edu.cn/ZHOUCONGHAO/zh_CN/index.htm)
+
 News
 ======
 * (10/2025)**[Award]** We received the Best Paper Award, IEEE WCSP'25, Chongqing, China!
