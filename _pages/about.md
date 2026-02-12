@@ -15,7 +15,7 @@ My research interests include Integrated Computation and Communication, Immersiv
 
 Open Position
 ======
-I am seeking motivated Ph.D. / Master / Undergraduate students to join our team and conduct research in the areas of Network Intelligence and Immersive Communications for 6G.
+I am seeking self-motivated Ph.D. / Master / Undergraduate students to join our team and conduct research in the areas of Network Intelligence and Immersive Communications for 6G.
 If you are interested, feel free to reach out to me by email: **zhouconghao AT xidian DOT edu DOT cn**. 
 
 长期欢迎校内外 本科生 / 研究生 申报课题组博士、硕士研究生，加入我们的团队，在6G网络智能与沉浸式通信领域开展研究。如果您感兴趣，欢迎通过电子邮件与我联系：**zhouconghao AT xidian DOT edu DOT cn**
@@ -24,6 +24,7 @@ If you are interested, feel free to reach out to me by email: **zhouconghao AT x
 
 News
 ======
+* (02/2026)**[Service]** I will serve as a Track chair of IEEE/CIC ICCC'25, Wuhan, China, for Track 'Industrial Internet of Things'. We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://iccc2026.ieee-iccc.org/authors/call-papers) here!
 * (12/2025)**[Paper]** Our paper has been accepted by IEEE INFOCOM'26, Tokyo, Japan.
 * (10/2025)**[Award]** We received the Best Paper Award, IEEE WCSP'25, Chongqing, China!
 * (10/2025)**[Award]** We received the Best Student Paper Award, IEEE VTC-Fall'25, Chengdu, China!
