@@ -77,6 +77,6 @@ News
 
 Teaching Experience
 ======
-* Winter 2024, *ECE610, Broadband Communication Networks*, Guest Lecturer.
+* Winter 2024, *ECE610, Broadband Communication Networks*, University of Waterloo, Guest Lecturer.
 
 
