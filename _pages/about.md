@@ -24,7 +24,7 @@ If you are interested, feel free to reach out to me by email: **zhouconghao AT x
 
 News
 ======
-* (12/2025)**[Paper]** Our paper has been accepted by ICML'26, Seoul, Korea.
+* (05/2026)**[Paper]** Our paper has been accepted by ICML'26, Seoul, Korea.
 * (04/2026)**[Service]** I will serve as an Associate Editor of "Intelligent Networking and Computing".  We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://www.oaepublish.com/inect/editor) here!
 * (02/2026)**[Service]** I will serve as a Track chair of IEEE/CIC ICCC'25, Wuhan, China, for Track 'Industrial Internet of Things'. We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://iccc2026.ieee-iccc.org/authors/call-papers) here!
 * (12/2025)**[Paper]** Our paper has been accepted by IEEE INFOCOM'26, Tokyo, Japan.
