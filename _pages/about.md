@@ -24,6 +24,7 @@ If you are interested, feel free to reach out to me by email: **zhouconghao AT x
 
 News
 ======
+* (06/2026)**[Paper]** Our paper “Service Agent for User-centric QoE-aware Communication Service Provision in Mobile AR” has been accepted by SCIENCE CHINA Information Sciences.
 * (06/2026)**[Book]** Our book “[Data-centric AI: Integrated Computation and Communications for Extended Reality](https://books.google.co.jp/books?id=2VX60QEACAAJ)” has been published by Springer Nature.
 * (05/2026)**[Paper]** Our paper has been accepted by ICML'26, Seoul, Korea.
 * (04/2026)**[Service]** I will serve as an Associate Editor of "Intelligent Networking and Computing".  We welcome the submission of your best work! Check the [Call for Papers (CFP)](https://www.oaepublish.com/inect/editor) here!
