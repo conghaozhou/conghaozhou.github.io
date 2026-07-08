@@ -24,6 +24,7 @@ If you are interested, feel free to reach out to me by email: **zhouconghao AT x
 
 News
 ======
+* (07/2026)**[Service]** I will serve as an Associate Editor of "IEEE Internet of Things Journal".  Welcome the submission of your best work!
 * (06/2026)**[Paper]** Our paper “Service Agent for User-centric QoE-aware Communication Service Provision in Mobile AR” has been accepted by SCIENCE CHINA Information Sciences.
 * (06/2026)**[Book]** Our book “[Data-centric AI: Integrated Computation and Communications for Extended Reality](https://link.springer.com/book/9783032274861)” has been published by Springer Nature.
 * (05/2026)**[Paper]** Our paper has been accepted by ICML'26, Seoul, Korea.
