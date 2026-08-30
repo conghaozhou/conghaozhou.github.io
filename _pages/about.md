@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Professor in the School of Telecommunications Engineering, Xidian University, China. Previously, I was a Postdoctoral Fellow in the Department of Electrical and Computer Engineering at the University of Waterloo, Ontario, Canada. I received my Ph.D. degree from the University of Waterloo as a member of the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), under the supervision of Professor [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen). Before that, I received my M.Sc. degree in Electrical and Computer Engineering from the University of Illinois Chicago, USA, and my B.Eng. degree from Northeastern University, China. 
+I am a Professor in the School of Telecommunications Engineering, Xidian University, China. Previously, I was a Postdoctoral Fellow in the Department of Electrical and Computer Engineering at the University of Waterloo, Ontario, Canada. I received my Ph.D. degree from the University of Waterloo as a member of the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), under the supervision of Professor [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen). Before that, I received my B.Eng. degree from Northeastern University, China. 
 
 My research interests include Integrated Computation and Communication, Immersive Communications, and Space-Air-Ground Integrated Networks.
 
-周淙浩，西安电子科技大学 通信工程学院教授，于加拿大滑铁卢大学电子与计算机工程系获得博士学位，师从Xuemin (Sherman) Shen 教授。分别于美国伊利诺伊大学芝加哥分校和中国东北大学获得硕士学位和学士学位。
-主要研究方向是：6G沉浸通信、智能通算一体化技术以及空天地一体化网络。入选2025年斯坦福大学全球前2%科学家。
+周淙浩，西安电子科技大学 通信工程学院教授，于加拿大滑铁卢大学电子与计算机工程系获得博士学位，师从Xuemin (Sherman) Shen 教授。于中国东北大学获得学士学位。
+主要研究方向是：6G沉浸通信、通算一体化技术、智能体网络以及空天地一体化网络。入选2025年斯坦福大学全球前2%科学家。
 
 Open Position
 ======
@@ -24,6 +24,7 @@ If you are interested, feel free to reach out to me by email: **zhouconghao AT x
 
 News
 ======
+* (08/2026)**[Service]** I am honored to have been appointed to the Youth Editorial Board of "China Communications".  Welcome the submission of your best work!
 * (07/2026)**[Service]** I will serve as an Associate Editor of "IEEE Internet of Things Journal".  Welcome the submission of your best work!
 * (06/2026)**[Paper]** Our paper “Service Agent for User-centric QoE-aware Communication Service Provision in Mobile AR” has been accepted by SCIENCE CHINA Information Sciences.
 * (06/2026)**[Book]** Our book “[Data-centric AI: Integrated Computation and Communications for Extended Reality](https://link.springer.com/book/9783032274861)” has been published by Springer Nature.
@@ -42,18 +43,6 @@ News
 * (06/2024)**[Award]** We received the Best Innovative Concept Award, IEEE Toronto Section, 2024!
 * ...
 
-
-<!-- Publications
-======
-* **From One Thousand Pages of Specification to Unveiling Hidden Bugs:** *Large Language Model Assisted Fuzzing of Matter IoT Devices*  
-**Xiaoyue Ma**, Lannan Luo, Qiang Zeng.    
-*Security'24*, Philadelphia, USA, Aug. 2024
-
-
-* **No More Companion Apps Hacking but One Dongle:** *Hub-Based Blackbox Fuzzing of IoT Firmware*  
-**Xiaoyue Ma**, Qiang Zeng, Haotian Chi, Lannan Luo  
-*MobiSys'23*, Helsinki, Finland, June. 2023    
-\>\>[PDF]
 
 <!-- Awards/Honors
 ======
