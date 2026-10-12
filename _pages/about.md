@@ -11,7 +11,7 @@ I am a Professor in the School of Telecommunications Engineering, Xidian Univers
 My research interests include Integrated Computation and Communication, Immersive Communications, and Space-Air-Ground Integrated Networks.
 
 周淙浩，西安电子科技大学 通信工程学院教授，于加拿大滑铁卢大学电子与计算机工程系获得博士学位，师从Xuemin (Sherman) Shen 教授。于中国东北大学获得学士学位。
-主要研究方向是：6G沉浸通信、通算一体化技术、智能体网络以及空天地一体化网络。入选2025-2026斯坦福大学和爱思唯尔共同发布的“全球前2%顶尖科学家”榜单。
+主要研究方向是：6G沉浸通信、通算一体化技术、智能体网络以及空天地一体化网络。入选2024-2026斯坦福大学和爱思唯尔共同发布的“全球前2%顶尖科学家”榜单。
 
 Open Position
 ======
